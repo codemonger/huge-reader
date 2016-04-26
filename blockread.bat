@@ -3,6 +3,5 @@
 ::
 
 @echo off
-@echo This program must be used from within the directory it is exists in.
 
-javaw org.codemonger.io.BlockRead %1
+java -jar bin/huge-reader-0.5.jar %1
