@@ -4,4 +4,4 @@
 
 @echo off
 
-java -jar bin/huge-reader-0.5.jar %1
+java -jar bin/huge-reader-0.6.jar %1
